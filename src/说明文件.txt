@@ -1,0 +1,3 @@
+1.通过自定义BeanFactory类，工厂类+反射+小配置文件+面向接口编程。
+2.通过main方法，加载spring读取spring的配置文件,通过spring容器创建对象。
+3.通过web容器加载spring的配置文件。
